@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estranha Toada",
+    "artista": "Martins",
+    "duracao": "03:28",
+    "single": true,
+    "album": ""
+  },
+  {
+    "id": 2,
+    "titulo": "Segredo",
+    "artista": "Almerio",
+    "duracao": "03:56",
+    "single": false,
+    "album": "Desempena"
+  },
+  {
+    "id": 3,
+    "titulo": "Asas",
+    "artista": "Luedji Luna",
+    "duracao": "04:34",
+    "single": false,
+    "album": "Um Corpo no Mundo"
+  },
+  {
+    "id": 4,
+    "titulo": "Sem Mentir",
+    "artista": "Tuyo",
+    "duracao": "03:32",
+    "single": true,
+    "album": ""
+  },
+  {
+    "id": 4,
+    "titulo": "Cada Acidente",
+    "artista": "Fresno",
+    "duracao": "04:05",
+    "single": false,
+    "album": "Sua Alegria foi Cancelada"
+  }
+]
